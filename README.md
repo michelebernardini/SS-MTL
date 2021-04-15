@@ -6,6 +6,6 @@ This work aims to propose a novel Semi-Supervised Multi-Task Learning (SS-MTL) a
 
 The code to replicate the Semi-Supervised Learning part (i.e., Self-Learning Algorithm [SLA]) of the SS-MTL approach can be found at the following link: https://github.com/aminim/tudor 
 
-The code to replicate the Multi-task Leaerning part (i.e., Fused Group Lasso Progression Model with Logistic Loss [CFG]) can be found at the following link: https://github.com/jiayuzhou/MALSAR/tree/master/MALSAR/functions/progression_model/cFSGL
+The code to replicate the Multi-task Leaerning part (i.e., Fused Group Lasso Progression Model with Logistic Loss [CFG]) can be found at the following link: https://github.com/jiayuzhou/MALSAR/tree/master/MALSAR
 
 We tested the predictive performance of the SS-MTL approach on the novel mFIMMG dataset, publicly available at the following link: https://vrai.dii.univpm.it/content/mfimmg-dataset
