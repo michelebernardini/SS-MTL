@@ -10,4 +10,4 @@ The code to replicate the Semi-Supervised Learning part (i.e., Self-Learning Alg
 
 The code to replicate the Multi-task Leaerning part (i.e., Fused Group Lasso Progression Model with Logistic Loss [CFG]) can be found at the following link: https://github.com/jiayuzhou/MALSAR/tree/master/MALSAR
 
-Run main_SSMTL.m script to test the whole SS-MTL approach on pseudo-data.
+Run [main_SSMTL.m](https://github.com/michelebernardini/SS-MTL/blob/master/main_SSMTL.m "main_SSMTL.m") to test the SS-MTL approach on pseudo-data.
