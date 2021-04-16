@@ -11,3 +11,5 @@ The code to replicate the Multi-task Leaerning part (i.e., Fused Group Lasso Pro
 We tested the predictive performance of the SS-MTL approach on the novel mFIMMG dataset, publicly available at the following link: https://vrai.dii.univpm.it/content/mfimmg-dataset
 
 Run [main_SSMTL.m](https://github.com/michelebernardini/SS-MTL/blob/master/main_SSMTL.m "main_SSMTL.m") to test the SS-MTL approach on pseudo-data.
+
+**Output**: confusion matrix and performance metrics (i.e., Accuracy, F1, Precision, Recall, and AUC)
