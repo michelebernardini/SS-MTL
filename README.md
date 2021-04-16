@@ -12,4 +12,4 @@ We tested the predictive performance of the SS-MTL approach on the novel mFIMMG 
 
 Run [main_SSMTL.m](https://github.com/michelebernardini/SS-MTL/blob/master/main_SSMTL.m "main_SSMTL.m") to test the SS-MTL approach on pseudo-data.
 
-**Output**: confusion matrix and performance metrics (i.e., Accuracy, F1, Precision, Recall, and AUC)
+**Output**: confusion matrix and predictive performance metrics (i.e., Accuracy, F1, Precision, Recall, and AUC)
